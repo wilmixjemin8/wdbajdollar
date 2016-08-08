@@ -1,7 +1,7 @@
 # wdbajdollar
 ==============
 
-WDBAJ$ is invented in JDOLLAR Technology at year 2014 by wilmix jemin j.
+WDBAJ$ is invented in WEB2.0 Technology at year 2014 by wilmix jemin j.
 
 WDBAJ$ is used in cloud computing.
 
