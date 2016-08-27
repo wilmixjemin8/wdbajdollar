@@ -72,4 +72,9 @@ SYNTAX
 
 
 
-Note: About  Wdbajdollar is  briefly mentioned  in tutorial not here. 
+Note: About  Wdbajdollar is  briefly mentioned  in tutorial not here.
+
+Note:
+--------
+wdbajdollar-Version1   is   already released   in google code  and  wdbajdollar-version2
+consists  improved  advantages  with  wdbajdollarv.2
