@@ -72,4 +72,4 @@ SYNTAX
 
 
 
-Note:  This   Database and  tutorial  is  under  construction....
+Note: About  Wdbajdollar is  briefly mentioned  in tutorial not here. 
