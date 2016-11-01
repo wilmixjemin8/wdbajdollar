@@ -1,7 +1,7 @@
 # wdbajdollar
 ==============
 
-WDBAJ$ is invented in WEB2.0 P.L at year 2014 by wilmix jemin j.
+WDBAJ$ is invented in JDollar Programming Language at year 2014 by wilmix jemin j.
 
 WDBAJ$ is used in remote  database  services.
 
