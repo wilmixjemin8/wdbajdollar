@@ -1,9 +1,9 @@
 # wdbajdollar
 ==============
 
-WDBAJ$ is invented in WEB2.0 Technology at year 2014 by wilmix jemin j.
+WDBAJ$ is invented in WEB2.0 P.L at year 2014 by wilmix jemin j.
 
-WDBAJ$ is used in cloud computing.
+WDBAJ$ is used in remote  database  services.
 
 It is a remote database to connect to any program or J$ program or saucer , etc.
 
@@ -25,7 +25,7 @@ ADVANTAGES
    4.it  is  used   in cloud  computing
 
    5.it  is  used in    banking  and  insurance projects  and  with all
-WSIT  Technologies.
+WRIT P.L.
 
    6.it  provides   encryption ,  deencryption ,etc
 
