@@ -1,11 +1,11 @@
 # wdbajdollar
 ==============
 
-WDBAJ$ is invented in JDollar Programming Language at year 2014 by wilmix jemin j.
+WDBAJ$ is invented in JAS Programming Language at year 2014 by wilmix jemin j.
 
 WDBAJ$ is used in remote  database  services.
 
-It is a remote database to connect to any program or J$ program or saucer , etc.
+It is a remote database to connect to any program or JAS program or saucer , etc.
 
 It is a NOSQL database.(ie, no need to type sql).
 
